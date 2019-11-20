@@ -50,3 +50,13 @@ Quantify the effect of certain characteristics of a home have on prices.
 Create a heatmap to check for multicolinearity:
 
 <img src="https://github.com/esotewic/ultimate_housing_model/blob/master/pictures/date_features_heatmap.png">
+
+# Machine Learning Regression Models
+- Linear Regression
+- Random Forests
+- Gradient Boost 
+
+Linear Regression returned an R2 score of .802
+Random Forests returned an R2 score of .805
+Gradient Boost returned an R2 score of .865
+Neural Net returned an R2 score of .744
